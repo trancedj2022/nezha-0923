@@ -1,1 +1,1 @@
-docker/trancedj20240410/nezha-0923:latest
+FROM docker/trancedj20240410/nezha-0923:latest
