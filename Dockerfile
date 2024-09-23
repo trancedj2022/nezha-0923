@@ -1,1 +1,1 @@
-docker/trancedj20240410/nezha-0923:tagname
+docker/trancedj20240410/nezha-0923:latest
