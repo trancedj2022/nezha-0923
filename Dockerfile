@@ -1,1 +1,1 @@
-docker pull docker/trancedj20240410/nezha-0923
+FROM docker pull docker/trancedj20240410/nezha-0923
